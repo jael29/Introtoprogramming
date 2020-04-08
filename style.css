@@ -1,0 +1,35 @@
+p{
+    color: rgb(100%, 0%, 0%);
+
+}   
+
+h1{
+    font-family: 'Pacifico', cursive;
+}
+
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    border: 3px solid green;
+
+}
+.racoon{
+
+    
+    
+    }
+
+.bear{
+
+ 
+
+}
+.bear1{
+
+
+}
+
+.racoon1{
+   
+
+}

@@ -1,0 +1,60 @@
+/* add your CSS here */
+
+
+span{
+    font-weight: bold;
+}
+h1{
+    padding: 10px;
+}
+
+.container{
+ width: 30%;
+}
+
+.card{
+    border: 2px solid lightgray;
+    width: 350px;
+    box-shadow: 5px 5px lightgray;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+ul {
+    
+    padding: 0%;
+}
+
+li{
+    list-style: none;
+  
+}
+
+.description{
+    border: 1px solid gray;
+    display: block  ;
+    margin-left: auto;
+    margin-right: auto;     
+    padding: 10px;
+    width: 280px;
+    height: 300;
+    margin-bottom: 10px;
+    
+
+}
+
+img{
+    border: 1px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.video{
+    float: left;
+}
